@@ -1,8 +1,8 @@
 
 
-### Hey peoples, I'm Juan 👋
+## Hey guys, I'm Juan 👋
 
-About me
+About me:
 > 
 Passionate about learning programming, and everything in the world of finance.
 ##
@@ -19,9 +19,12 @@ Tools and technologies
   <img align="center" alt="Bruno-Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
   <img align="center" alt="Bruno-Mdb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg">
 </div>
+
+
 ##
 
-<div>
+
+<div style="display: inline_block"><br>
   <a href="https://github.com/jotape27/">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jotape27&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotape27&theme=dracula&layout=compact&langs_count=10"/>
