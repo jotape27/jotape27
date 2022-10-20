@@ -1,16 +1,13 @@
-### Hi there 👋
 
-<!--
-**jotape27/jotape27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Olá, eu sou Juan 👋
 
-Here are some ideas to get you started:
+![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jotape27&show_icons=true&theme=dracula)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jotape27&theme=dracula&repo=plano)](https://github.com/jotape27/plano)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jotape27&theme=dracula&repo=Galeria)](https://github.com/jotape27/Galeria)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jotape27&theme=dracula&repo=GaleriaPublica)](https://github.com/jotape27/GaleriaPublica)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jotape27&theme=dracula&hide=hack&layout=compact)](https://github.com/jotape27/plano)
+
