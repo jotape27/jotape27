@@ -35,6 +35,7 @@ Tools and technologies
   
   
   
-![Snake animation](https://github.com/jotape27/jotape27/blob/output/github-contribution-grid-snake.svg)
+
+  ![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
   
   
