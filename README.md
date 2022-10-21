@@ -7,17 +7,16 @@ About me:
 Passionate about learning programming, and everything in the world of finance.
 ##
 
-Tools and technologies
+Technologies
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Bruno-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
   <img align="center" alt="Bruno-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
-  <img align="center" alt="Bruno-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">
+  <img align="center" alt="Bruno-Postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">
   <img align="center" alt="Bruno-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
   <img align="center" alt="Bruno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Bruno-Jq" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain.svg">
   <img align="center" alt="Bruno-Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
-  <img align="center" alt="Bruno-Mdb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg">
 </div>
 
 
@@ -34,8 +33,37 @@ Tools and technologies
 ##
   
   
-  
-
+<!--
   ![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
   
+  ##
   
+  
+  -->
+  
+### Tools:
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
+![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
+
+
+### Learning at the moment:
+![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
+  
+### learning them in:
+![Codecademy](https://img.shields.io/badge/Codecademy-0D1117?style=for-the-badge&logo=codecademy&labelColor=0D1117)
+![edX](https://img.shields.io/badge/edX-0D1117?style=for-the-badge&logo=edX&logoColor=white)
+
+### Contatos:
+
+<div style="display: inline_block">
+  
+<a href="mailto:yasmin.alves@outlook.com.br" target="_blank" style="text-decoration:none;"><img align="center"   height="40" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS0M6ggYz32UW39FkUpTPAqSnNOeCR9YDNZ5bN6iog1RE8sLUbsuzt8O-d02CowQ3pS3Q&usqp=CAU"></a>
+<a href="https://www.linkedin.com/in/devyasmin/" target="_blank" style="text-decoration:none;" ><img align="center"   height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"></a>
+<a href="https://wa.me/5512983191908" target="_blank" style="text-decoration:none;"><img align="center"   height="40" width="40" src="https://logopng.com.br/logos/whatsapp-33.png"></a>
+  
+</div>
