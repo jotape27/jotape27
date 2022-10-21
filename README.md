@@ -29,5 +29,12 @@ Tools and technologies
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jotape27&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotape27&theme=dracula&layout=compact&langs_count=10"/>
 </div>
-
-
+  
+  
+##
+  
+  
+  
+![Snake animation](https://github.com/yasminalves16/yasminalves16/blob/output/github-contribution-grid-snake.svg)
+  
+  
