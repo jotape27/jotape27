@@ -6,6 +6,10 @@
 > 
 Passionate about learning programming, and everything in the world of finance.
 
+
+##
+
+
 ### Technologies
 
 <div style="display: inline_block"><br>
