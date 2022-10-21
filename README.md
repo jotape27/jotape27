@@ -40,6 +40,16 @@ Technologies
   
   
   -->
+
+### Working recently:
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jotape27&theme=dracula&repo=plano)](https://github.com/jotape27/plano)
+
+<!-- div style="display: inline_block"><br>
+  <a href="https://github.com/jotape27/plano">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=jotape27&theme=dracula&repo=plano"/>
+</div -->
+
   
 ### Tools:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
