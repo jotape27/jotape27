@@ -35,6 +35,6 @@ Tools and technologies
   
   
   
-![Snake animation](https://github.com/yasminalves16/yasminalves16/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/jotape27/jotape27/blob/output/github-contribution-grid-snake.svg)
   
   
