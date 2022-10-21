@@ -54,16 +54,17 @@ Technologies
 ![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
   
-### learning them in:
+### Learning them in:
 ![Codecademy](https://img.shields.io/badge/Codecademy-0D1117?style=for-the-badge&logo=codecademy&labelColor=0D1117)
 ![edX](https://img.shields.io/badge/edX-0D1117?style=for-the-badge&logo=edX&logoColor=white)
 
-### Contatos:
+### Contacts:
 
 <div style="display: inline_block">
   
-<a href="mailto:yasmin.alves@outlook.com.br" target="_blank" style="text-decoration:none;"><img align="center"   height="40" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS0M6ggYz32UW39FkUpTPAqSnNOeCR9YDNZ5bN6iog1RE8sLUbsuzt8O-d02CowQ3pS3Q&usqp=CAU"></a>
-<a href="https://www.linkedin.com/in/devyasmin/" target="_blank" style="text-decoration:none;" ><img align="center"   height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"></a>
-<a href="https://wa.me/5512983191908" target="_blank" style="text-decoration:none;"><img align="center"   height="40" width="40" src="https://logopng.com.br/logos/whatsapp-33.png"></a>
+<a href="mailto:jplferreira27@gmail.com" target="_blank" style="text-decoration:none;"><img align="center"   height="40" width="40" src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-16.png"></a>
+<a href="#" target="_blank" style="text-decoration:none;" ><img align="center"   height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"></a>
+<a href="https://wa.me/5527999083749" target="_blank" style="text-decoration:none;"><img align="center"   height="40" width="40" src="https://logopng.com.br/logos/whatsapp-33.svg"></a>
+<a href="https://instagram.com/juan.de.luis" target="_blank" style="text-decoration:none;"><img align="center"   height="40" width="40" src="https://logopng.com.br/logos/instagram-40.svg"></a>
   
 </div>
