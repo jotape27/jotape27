@@ -4,7 +4,7 @@
 
 ### About me:
 > 
-Passionate about learning programming, and everything in the world of finance.
+ True knowledge passionater about learning programming, and everything in the world of finance.
 
 
 ##
