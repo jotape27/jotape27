@@ -79,3 +79,5 @@
 <a href="https://instagram.com/juan.de.luis" target="_blank" style="text-decoration:none;"><img align="center"   height="40" width="40" src="https://logopng.com.br/logos/instagram-40.svg"></a>
   
 </div>
+
+![snake gif](https://github.com/jotape27/jotape27/blob/output/github-contribution-grid-snake.svg)
